@@ -1,0 +1,4 @@
+name,password,email,failed_login_attempts,logged_in,role
+root,rootMDP,root@example.com,0,False,admin
+user1,user1MDP,user1@example.com,0,False,user
+utilisateur,utilisateurMDP,utilisateur@example.com,0,False,user
